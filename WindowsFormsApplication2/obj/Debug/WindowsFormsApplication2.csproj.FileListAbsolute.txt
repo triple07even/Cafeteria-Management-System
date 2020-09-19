@@ -1,0 +1,175 @@
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\software lab 51\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\SOFTWARE LAB 51\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\SOFTWARE LAB 51\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\SOFTWARE LAB 51\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Manage.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+F:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+H:\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+G:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+G:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\LENOVO USER\Documents\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+I:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication2-20190624T121725Z-001\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\itextsharp.dll
