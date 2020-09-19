@@ -1,0 +1,23 @@
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Activities.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.collection.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Settings.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.SignUp.resources
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\x64\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\x64\Debug\itextsharp.dll
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.exe
+C:\Users\Mi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.pdb
